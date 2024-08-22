@@ -1,4 +1,4 @@
-# ClashKing
+# ClashKing.py
 
 A basic asynchronous API client wrapper with caching for the ClashKing API plus utils for the ClashKing project
 
